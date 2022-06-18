@@ -1,22 +1,13 @@
-<h1 align="center">Taskist</h1>
+<h1 align="center">Todo</h1>
 
 <h2 align="center">
- Taskist is a ToDo List app for Task Management inspired by the design below
+ Todo is a Simple tasks manager application.
 </h2>
 
 <h2 align="center">
- The app is using Firebase, you have to configure it from your side to test the app
+ The app is using Flutter framework
 </h2>
 
-<h3 align="center">
- Download it on Android now: <a href="https://play.google.com/store/apps/details?id=com.huextrat.taskist">
-      Taskist on Android
-    </a>
- <br>
- Download it on iOS now: <a href="https://itunes.apple.com/fr/app/taskist/id1435481664">
-      Taskist on iOS
-    </a>
-</h3>
 
 
 <div align="center">
